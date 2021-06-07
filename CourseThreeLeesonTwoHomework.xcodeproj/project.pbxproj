@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06036E69266E3695004DBC42 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06036E68266E3695004DBC42 /* SliderView.swift */; };
 		064BA305266AD5EA00C3FCAF /* CourseThreeLeesonTwoHomeworkApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064BA304266AD5EA00C3FCAF /* CourseThreeLeesonTwoHomeworkApp.swift */; };
 		064BA307266AD5EA00C3FCAF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064BA306266AD5EA00C3FCAF /* ContentView.swift */; };
 		064BA309266AD5EB00C3FCAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 064BA308266AD5EB00C3FCAF /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		06036E68266E3695004DBC42 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 		064BA301266AD5EA00C3FCAF /* CourseThreeLeesonTwoHomework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CourseThreeLeesonTwoHomework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		064BA304266AD5EA00C3FCAF /* CourseThreeLeesonTwoHomeworkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseThreeLeesonTwoHomeworkApp.swift; sourceTree = "<group>"; };
 		064BA306266AD5EA00C3FCAF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				064BA304266AD5EA00C3FCAF /* CourseThreeLeesonTwoHomeworkApp.swift */,
 				064BA306266AD5EA00C3FCAF /* ContentView.swift */,
+				06036E68266E3695004DBC42 /* SliderView.swift */,
 				064BA308266AD5EB00C3FCAF /* Assets.xcassets */,
 				064BA30D266AD5EB00C3FCAF /* Info.plist */,
 				064BA30A266AD5EB00C3FCAF /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06036E69266E3695004DBC42 /* SliderView.swift in Sources */,
 				064BA307266AD5EA00C3FCAF /* ContentView.swift in Sources */,
 				064BA305266AD5EA00C3FCAF /* CourseThreeLeesonTwoHomeworkApp.swift in Sources */,
 			);
